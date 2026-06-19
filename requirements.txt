@@ -2,4 +2,5 @@ torch
 torchvision
 streamlit
 pillow
-opencv-python
+opencv-python-headless
+
